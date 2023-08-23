@@ -5,7 +5,7 @@
 
 I am a passionate student pursuing a degree in Computer Engineering, who finds joy in crafting lines of code 🚀
 
-Also, enthusiatic
+Moreover, I'm an avid competitive programmer who thrives on tackling intricate problems and relishes the challenges that provide a platform to apply the theoretically studied algorithms
 
 From turning complex problems into elegant solutions to constantly expanding my tech toolkit, programming is where my heart and mind unite 💻
 
