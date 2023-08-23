@@ -1,6 +1,7 @@
 # 🙌 Pedro Melo Bitencourt
 
 **`Software Artisan`**
+
 I am a passionate student pursuing a degree in Computer Engineering, who finds joy in crafting lines of code 🚀
 
 Also, enthusiatic
