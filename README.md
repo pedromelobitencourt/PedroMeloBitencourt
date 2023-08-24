@@ -29,7 +29,13 @@ Moreover, I'm an avid competitive programmer who thrives on tackling intricate p
 
 ### 📊 Stats
 
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedromelobitencourt&show_icons=true&theme=gruvbox)
+![Pedros's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedromelobitencourt&show_icons=true&theme=gruvbox)
+
+---
+
+<details>
+ <summary><h3>👦 Pedros's Coding Journey</h3></summary>
+   I started my coding journey as a naive computer science student with a passion to learn everything I could about this programming world - code, unix, linux, theory. 
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
 
