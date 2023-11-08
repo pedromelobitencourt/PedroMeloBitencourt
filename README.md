@@ -43,6 +43,7 @@ Moreover, I'm an avid <b>competitive programmer</b> who thrives on tackling intr
 <details>
  <summary><h3>👦 Pedros's Coding Journey</h3></summary>
    I started my coding journey as a naive computer science student with a passion to learn everything I could about this programming world - code, unix, linux, theory. 
+</details>
 
 ---
 
