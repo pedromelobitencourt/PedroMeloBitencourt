@@ -44,6 +44,11 @@ Moreover, I'm an avid competitive programmer who thrives on tackling intricate p
  <summary><h3>👦 Pedros's Coding Journey</h3></summary>
    I started my coding journey as a naive computer science student with a passion to learn everything I could about this programming world - code, unix, linux, theory. 
 
+---
+
+### Contact
+<a href="https://www.linkedin.com/in/pedro-vitor-melo-bitencourt-b2778b243/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href = "mailto:pedromelobitencourt@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
 
 #
