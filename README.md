@@ -9,34 +9,58 @@ Moreover, I'm an avid <b>competitive programmer</b> who thrives on tackling intr
 
 ---
 
-### 🧰 Languages and Tools
-<img align="left" alt="Java" width="30px" style="padding:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-<img align="left" alt="Git" width="30px" style="padding:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="Linux" width="30px" style="padding:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<img align="left" alt="HTML" width="30px" style="padding:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="30px" style="padding:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="JavaScript" width="30px" style="padding:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="NodeJS" width="30px" style="padding:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img align="left" alt="Python" width="30px" style="padding:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align="left" alt="C++" width="30px" style="padding:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img align="left" alt="Bash" width="30px" style="padding:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-<img align="left" alt="react" width="30px" style="padding:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" />
-<img align="left" alt="pandas" width="30px" style="padding:10px;" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" />
-<img align="left" alt="scikit_learn" width="30px" style="padding:10px;" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" />
-<img align="left" alt="seaborn" width="30px" style="padding:10px;" src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" />
-<img align="left" alt="typescript" width="30px" style="padding:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" />
-<img align="left" alt="jest" width="30px" style="padding:10px;" src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" />
-<img align="left" alt="mysql" width="30px" style="padding:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" />
-<br />
+### 🚀 Skills
 
-#
+<div style="display: inline-block"><br>    
+  
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="Intellij IDEA" alt="C Language" style="vertical-align:top; margin:6px 4px">
+  
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Intellij IDEA" alt="Java" style="vertical-align:top; margin:6px 4px">
+
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="Intellij IDEA" alt="Cpp IDEA" style="vertical-align:top; margin:6px 4px">
+  
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" style="vertical-align:top; margin:6px 4px">
+  
+  <img src="https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl" alt="OpenGL" style="vertical-align:top; margin:6px 4px">
+
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="Typescript" style="vertical-align:top; margin:6px 4px">
+
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node" style="vertical-align:top; margin:6px 4px">
+
+  <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell Script" style="vertical-align:top; margin:6px 4px">
+
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" style="vertical-align:top; margin:6px 4px">
+
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" style="vertical-align:top; margin:6px 4px">
+
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt="Express" style="vertical-align:top; margin:6px 4px">
+
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" style="vertical-align:top; margin:6px 4px">
+
+  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" alt="Vue" style="vertical-align:top; margin:6px 4px">
+
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" style="vertical-align:top; margin:6px 4px">
+
+  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" style="vertical-align:top; margin:6px 4px" width=50 height=30>
+
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="sklearn" style="vertical-align:top; margin:6px 4px" width=50 height=30>
+
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" style="vertical-align:top; margin:6px 4px" width=50 height=30>
+
+  <img src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white" alt="Jest" alt="C Language" style="vertical-align:top; margin:6px 4px">
+
+</div>
+
+
+<br />
 
 ---
 
 ### 📊 Stats
 
 ![Pedros's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedromelobitencourt&show_icons=true&theme=gruvbox)
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pedromelobitencourt&layout=compact&langs_count=7&theme=dracula)
 
 ---
 
@@ -49,7 +73,9 @@ Moreover, I'm an avid <b>competitive programmer</b> who thrives on tackling intr
 
 ### Contact
 <a href="https://www.linkedin.com/in/pedro-vitor-melo-bitencourt-b2778b243/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href = "mailto:pedromelobitencourt@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href = "mailto:pedromelobitencourt@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://codeforces.com/profile/pvmbitencourt" target="_blank"><img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" target="_blank"></a>
+<a href="https://leetcode.com/pedrombitencourt/" target="_blank"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" target="_blank"></a>
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
 
 #
