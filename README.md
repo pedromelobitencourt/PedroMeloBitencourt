@@ -58,9 +58,9 @@ Moreover, I'm an avid <b>competitive programmer</b> who thrives on tackling intr
 
 ### 📊 Stats
 
-![Pedros's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedromelobitencourt&show_icons=true&theme=gruvbox)
+![Pedros's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedromelobitencourt&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true)
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pedromelobitencourt&layout=compact&langs_count=7&theme=dracula)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pedromelobitencourt&layout=compact&langs_count=12&theme=dracula)
 
 ---
 
