@@ -74,7 +74,7 @@ Moreover, I'm an avid <b>competitive programmer</b> who thrives on tackling intr
 ### Contact
 <a href="https://www.linkedin.com/in/pedro-vitor-melo-bitencourt-b2778b243/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href = "mailto:pedromelobitencourt@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://codeforces.com/profile/pvmbitencourt" target="_blank"><img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" target="_blank"></a>
+<!-- <a href="https://codeforces.com/profile/pvmbitencourt" target="_blank"><img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" target="_blank"></a> -->
 <a href="https://leetcode.com/pedrombitencourt/" target="_blank"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" target="_blank"></a>
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
 
